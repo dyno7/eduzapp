@@ -18,7 +18,7 @@ class _ChatbotPageState extends State<ChatbotPage> {
     super.initState();
     _model = GenerativeModel(
       model: 'gemini-pro',
-      apiKey: 'AIzaSyAlKepEQvfLv5SXS4E63yHWZ0OyoRV0Y9o', // Replace with your API key
+      apiKey: '..', // Replace with your API key
     );
   }
 
