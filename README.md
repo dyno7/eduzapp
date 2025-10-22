@@ -117,6 +117,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ```
 
----
-That version would sound more realistic for your GitHub right now.
-```
