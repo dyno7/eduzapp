@@ -1,0 +1,2 @@
+C:/Users/amitd/AndroidStudioProjects/EduZapp/android/app/.cxx/Debug/3q4sv152/x86/CMakeFiles/edit_cache.dir
+C:/Users/amitd/AndroidStudioProjects/EduZapp/android/app/.cxx/Debug/3q4sv152/x86/CMakeFiles/rebuild_cache.dir

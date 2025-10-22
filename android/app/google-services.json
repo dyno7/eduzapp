@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "180447179627",
+    "project_id": "codepac-d88e3",
+    "storage_bucket": "codepac-d88e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180447179627:android:7de3c7830a75e9bc9d522e",
+        "android_client_info": {
+          "package_name": "com.android.codepac.newcollegefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180447179627-kvuutek39dk0mv0ceokeqaib86cucu3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsnA4UTAbrc4RzSCqe-tKompzfu9vug3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180447179627-kvuutek39dk0mv0ceokeqaib86cucu3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180447179627-n3hv1f411p6dn86b46tgvfs8h73a98si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codepac.eduzapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180447179627:android:99b06676df88d2279d522e",
+        "android_client_info": {
+          "package_name": "com.codepac.eduzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180447179627-67dd8pa172c8h3fs3uutcu5cnktuarnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codepac.eduzapp",
+            "certificate_hash": "a9bfea1eacfb50b57912d4129b01ef2e7d4250b7"
+          }
+        },
+        {
+          "client_id": "180447179627-kvuutek39dk0mv0ceokeqaib86cucu3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsnA4UTAbrc4RzSCqe-tKompzfu9vug3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180447179627-kvuutek39dk0mv0ceokeqaib86cucu3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180447179627-n3hv1f411p6dn86b46tgvfs8h73a98si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codepac.eduzapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

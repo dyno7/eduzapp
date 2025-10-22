@@ -1,0 +1,38 @@
+[
+  {
+    "scholarship_name": "PMC Scholarship 2025",
+    "eligibility": "Residents of Pune, passed 12th grade",
+    "benefits": "₹15,000 – ₹25,000",
+    "application_portal": "https://scholarshiplearn.com/pmc-scholarship/"
+  },
+  {
+    "scholarship_name": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship",
+    "eligibility": "VJNT & SBC category, 11th & 12th students",
+    "benefits": "Financial assistance for education",
+    "application_portal": "https://mahadbt.maharashtra.gov.in"
+  },
+  {
+    "scholarship_name": "Savitribai Phule Pune University Scholarships",
+    "eligibility": "Enrolled in Savitribai Phule Pune University",
+    "benefits": "Varies by course and merit",
+    "application_portal": "https://www.unipune.ac.in"
+  },
+  {
+    "scholarship_name": "National Scholarship Portal (NSP)",
+    "eligibility": "12th-passed students from recognized boards",
+    "benefits": "Multiple scholarships available",
+    "application_portal": "https://www.scholarships.gov.in"
+  },
+  {
+    "scholarship_name": "Lila Poonawalla Foundation Scholarship",
+    "eligibility": "Female students, Pune residents, 12th-passed",
+    "benefits": "₹60,000 – ₹1,00,000 annually",
+    "application_portal": "https://www.lilapoonawallafoundation.com"
+  },
+  {
+    "scholarship_name": "Swami Vivekananda Scholarship (West Bengal)",
+    "eligibility": "12th-passed with 75%+ marks (for WB students)",
+    "benefits": "₹12,000 – ₹60,000 annually",
+    "application_portal": "https://svmcm.wbhed.gov.in"
+  }
+]
